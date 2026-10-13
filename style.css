@@ -1654,7 +1654,7 @@ h2,h3 {
 
 @media(max-width:360px) {
   .line-flow {
-    padding: 12px 6px 14px;
+    padding: 12px 0 14px;
   }
 
   .line-flow ol {
