@@ -375,7 +375,7 @@ sup {
 
 /* 05. LINE繝懊ち繝ｳ繝ｻ逶ｸ隲�｡亥� */
 .cta-block {
-  padding: 24px 24px 28px;
+  padding: 24px 20px 28px;
   text-align: center;
 }
 
@@ -1039,7 +1039,7 @@ sup {
 .contact {
   background: var(--ink);
   color: white;
-  padding: 45px 25px;
+  padding: 45px 20px;
 }
 
 .contact .eyebrow {
@@ -1242,7 +1242,7 @@ sup {
 
 @media(max-width:360px) {
   .container,.section {
-    padding-inline: 21px;
+    padding-inline: 20px;
   }
 
   .hero-copy {
@@ -1630,7 +1630,7 @@ h2,h3 {
 }
 
 .line-flow small {
-  font-size: 10px;
+  font-size: 12px;
   color: var(--muted);
 }
 
@@ -1666,6 +1666,6 @@ h2,h3 {
   }
 
   .line-flow strong {
-    font-size: 11px;
+    font-size: 14px;
   }
 }
