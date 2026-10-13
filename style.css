@@ -1573,7 +1573,7 @@ h2,h3 {
 }
 
 .line-flow-title {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   letter-spacing: .05em;
   color: var(--blue);
@@ -1625,7 +1625,7 @@ h2,h3 {
 }
 
 .line-flow strong {
-  font-size: 12px;
+  font-size: 16px;
   color: var(--ink);
 }
 
